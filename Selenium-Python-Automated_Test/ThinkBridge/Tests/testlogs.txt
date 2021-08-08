@@ -1,0 +1,16 @@
+08082021 02:5427 AM -TestStatus -INFO: ### VERIFICATION SUCCESSFUL :: Verify that email has been received successfully
+08082021 02:5427 AM -TestStatus -INFO: No of Test Passed: 1
+08082021 02:5427 AM -TestStatus -INFO: No of Test Failed: 0
+08082021 02:5427 AM -TestStatus -INFO: Receiving email verification ### TEST SUCCESSFUL
+n
+ found with locator: //label[@class='ui-checkbox']//span and  locatorType: xpath
+08082021 02:5222 AM -Common_lib -INFO: Element found with locator: button[type='submit'] and  locatorType: css
+08082021 02:5227 AM -Common_lib -INFO: Waiting for maximum :: 20 :: seconds for element
+08082021 02:5227 AM -Common_lib -INFO: Launch SharkEmail
+08082021 02:5227 AM -Common_lib -INFO: Element found with locator: inbox-id and  locatorType: id
+08082021 02:5227 AM -Common_lib -INFO: Element found with locator: #inbox-id input[type=text] and  locatorType: css
+08082021 02:5227 AM -Common_lib -INFO: Cleared previous text
+08082021 02:5227 AM -Common_lib -INFO: Set email name
+08082021 02:5227 AM -Common_lib -INFO: Element found with locator: .save and  locatorType: css
+08082021 02:5227 AM -Common_lib -INFO: Saved email
+08082021 02:5427 AM -Common_lib -INFO: Element list found with locator: .mail_row and locatorType: css

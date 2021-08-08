@@ -1,0 +1,4 @@
+08072021 10:1349 PM -TestStatus -INFO: ### VERIFICATION SUCCESSFUL :: Verify th08072021 10:1349 PM -LoginPage -INFO: d08072021 10:1349 PM -TestStatus -INFO: ### VERIFICATION SUCCESSFUL :: Verify that dropdown contains Dutch language
+08072021 10:1349 PM -TestStatus -INFO: No of Test Passed: 2
+08072021 10:1349 PM -TestStatus -INFO: No of Test Failed: 0
+08072021 10:1349 PM -TestStatus -INFO: Dropdown validation on login page ### TEST SUCCESSFUL
