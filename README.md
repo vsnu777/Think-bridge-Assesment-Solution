@@ -7,6 +7,6 @@ Question 1: Open ShopBridge_Manual_Test_Cases.xlxs file under ManualTest Folder.
 Question 2: Open Selenium-Python-Automated_Test folder and check and follow pre-requisite mentioned in Readme.txt 
             under folder Think-bridge-Assesment-Solution\Selenium-Python-Automated_Test\ThinkBridge\TestData
            
-Question #: Open Suggestion for website improvement.doc under Improvement_test Folder.
+Question 3: Open Suggestion for website improvement.doc under Improvement_test Folder.
 
 ***** Please contact in vsnu971@gmail.com if you have any query on running the Automation Test.***** 
